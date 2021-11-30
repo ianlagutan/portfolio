@@ -1,0 +1,41 @@
+<style>
+  body {
+    background-color: gray;
+    color: white;
+    font-family: calibri;
+  }
+ 
+</style>
+
+
+<div id="main">
+  <h1 id="title"><center> Chester Bennington - Linkin Park Frontman </h1>
+  
+  <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Chester_Bennington">
+
+  <div id="img-div">
+    <img id="image" src="https://thatoregonlife.com/wp-content/uploads/2017/07/chester_bennington__lp__by_mayank94214-d7c1zdg-768x528.jpg" alt="Picture of Chester Bennington - Linkin Park Frontman" width="20%">
+</a>
+
+    <figcaption id="img-caption">Chester Charles Bennington (March 20, 1976 - July 20, 2017) was an American singer, songwriter, and occasional actor. He served as the lead vocalist of the bands Linkin Park, Grey Daze, Dead by Sunrise, and Stone Temple Pilots.. Bennington first gained prominence as a vocalist following the release of Linkin Park's debut album, Hybrid Theory (2000), which was a worldwide commercial success.</figcaption>
+    
+    <p id="tribute-info">
+      <b>Quick facts about Chester:</b>
+<br>
+Bennington first gained prominence as a vocalist following the release of Linkin Park's debut album, Hybrid Theory (2000), which was a worldwide commercial success. The album was certified Diamond by the Recording Industry Association of America in 2005, making it the best-selling debut album of the decade, as well as one of the few albums ever to achieve that many sales.[1] Linkin Park's following studio albums, from Meteora (2003) to One More Light (2017), continued the band's success.
+<br>
+      <ul>
+      <li>Birthday: March 20, 1976</li>
+      <li>Died At Age: 41</li>
+      <li>Also Known As: Chester Charles Bennington</li>  
+      <li>Born In: Phoenix, Arizona, United States</li>
+        <br>
+        <i>"I have been able to tap into all the negative things that can happen to me throughout my life by numbing myself to the pain so to speak and kind of being able to vent it through my music."</i>
+          <br>
+        <br>
+          - Chester Bennington
+    </p>
+    
+  </div> 
+
+</div>
